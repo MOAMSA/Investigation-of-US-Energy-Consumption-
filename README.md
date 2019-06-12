@@ -25,10 +25,10 @@ CSV files containing energy consumption are available for different regions. In 
 In this study, we are going to forecast _Hourly Energy Consumption_ using different methods. At the first step, Exploratory Data Analysis is applied to understand the data which is very important. In the next step and before implementing each method, we will review some basics in order to analyze the data set using the considered method. Using each of methods needs some preparation steps related to the specific aspects of time series data.<br/>Both Classical (`SARIMA`) and Machine learning (`SVM` and `LSTM`) approaches are used for the Energy consumption forecasting. 
 <br/>In the following, you can find links containing Python Codes and descriptions for three mentioned methods. The structure of the study is as follow:
 
-* [Exploratory Data Analysis](https://github.com/MOAMSA/Energy-Consumption-Time-Series/blob/master/Exploratory_Data_Analysis.ipynb)
-* [Seasonal Autoregressive Integrated Moving Average (SARIMA) Model](https://github.com/MOAMSA/Energy-Consumption-Time-Series/blob/master/TS_SARIMA.ipynb)
-* [Support Vector Machine (SVM) Model](https://github.com/MOAMSA/Energy-Consumption-Time-Series/blob/master/TS_SVM.ipynb)
-* [Long Short-Term Memory network (LSTM) Model](https://github.com/MOAMSA/Energy-Consumption-Time-Series/blob/master/TS_LSTM.ipynb)
+* [Exploratory Data Analysis](https://github.com/MOAMSA/Investigation-of-US-Energy-Consumption-/blob/master/Exploratory_Data_Analysis.ipynb)
+* [Seasonal Autoregressive Integrated Moving Average (SARIMA) Model](https://github.com/MOAMSA/Investigation-of-US-Energy-Consumption-/blob/master/TS_SARIMA.ipynb)
+* [Support Vector Machine (SVM) Model](https://github.com/MOAMSA/Investigation-of-US-Energy-Consumption-/blob/master/TS_SVM.ipynb)
+* [Long Short-Term Memory network (LSTM) Model](https://github.com/MOAMSA/Investigation-of-US-Energy-Consumption-/blob/master/TS_LSTM.ipynb)
 
 ## Results and Discussion
 There are several factors that affect the decision to choose a machine learning algorithm.  The data is a key role in deciding which algorithm to be used. Generally, algorithms are sensitive to the size, quality, type (categorical, etc), missing data points, outliers. Also, the allocated time for model training and the level of accuracy are important. Based on the type of data which is time series, a classical approach of SARIMA, SVM model as one of the most popular algorithms, and LSTM with the advantage of handling sequence dependency are used.  
