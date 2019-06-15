@@ -9,7 +9,7 @@ Energy Consumption forecasting is an essential tool for managers and related uti
 * Results and Discussion
 
 ## Some Notions about Time Series  
-Time Series is a sequence of measurements of the variable(s) which are collected over time. It has wide applicability in economics, atmospheric science, engineering, etc. The below figure summarizes some notions about time series data ([Original size](https://github.com/MOAMSA/Energy-Consumption-Time-Series/blob/master/Figures/TS_Facts.jpg)).
+Time Series is a sequence of measurements of the variable(s) which are collected over time. It has wide applicability in economics, atmospheric science, engineering, etc. The below figure summarizes some notions about time series data ([Original size](https://github.com/MOAMSA/Investigation-of-US-Energy-Consumption-/blob/master/Figures/TS_Facts.jpg)).
 <img src="Figures/TS_Facts.jpg" height="300" width="800">
 
 
