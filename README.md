@@ -1,4 +1,4 @@
-# Investigation of the US Energy Consumption 
+# Time Series Data: Investigation of the US Energy Consumption 
 Energy Consumption forecasting is an essential tool for managers and related utility companies to conduct energy-saving policies or provide more energy sources. This type of data is categorized as a _Time Series_ one. In the following, the outline of this study about the investigation of US Energy Consumption is presented.
 
 ## Outline
